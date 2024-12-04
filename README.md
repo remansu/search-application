@@ -21,28 +21,33 @@ The **Multi-Search Engine Interface** is a versatile web application that combin
 - Provides concise and detailed information for user queries.
 - Accesses reliable and comprehensive encyclopedia data.
 
-### 4. Voice Search
+### 4. **Dark Mode Facility** (🌟 **Highlighted Feature**)
+- Added a **Dark Mode toggle** to enhance user experience.
+- Provides a visually comfortable option for users, especially in low-light conditions.
+- Automatically saves the user's preference for light or dark mode.
+
+### 5. Voice Search
 - Integrated **voice search functionality** for hands-free query input.
 - Supports multiple languages for an enhanced user experience.
 
-### 5. File Manager Integration
+### 6. File Manager Integration
 - Opens the file manager directly from the interface when clicking the gallery icon.
 - Allows users to select files seamlessly.
 
-### 6. User-Friendly Interface
+### 7. User-Friendly Interface
 - Simple and intuitive design for a smooth user experience.
 - A single search bar to input queries directed to any search source.
 - Tabbed navigation to easily switch between Google, Gemini, and Wikipedia.
 
-### 7. Responsive Design
+### 8. Responsive Design
 - Mobile-friendly layout for users on the go.
 - Optimized for consistent performance across various devices and screen sizes.
 
-### 8. Advanced Search Options (Optional)
+### 9. Advanced Search Options (Optional)
 - Implements filters, sorting, and refinement options for tailored search results.
 - Includes image search functionality.
 
-### 9. Caching Mechanism
+### 10. Caching Mechanism
 - Speeds up repeated searches by implementing a caching mechanism.
 - Enhances overall application performance.
 
@@ -57,7 +62,8 @@ The **Multi-Search Engine Interface** is a versatile web application that combin
   - Wikipedia API  
 - **Additional Features:** 
   - Voice Search Integration  
-  - File Manager Opening
+  - File Manager Opening  
+  - **Dark Mode Toggle**
 
 ---
 
@@ -68,3 +74,12 @@ The **Multi-Search Engine Interface** is a versatile web application that combin
 
 ---
 
+## Future Enhancements
+
+- Add personalization features for saved searches and user preferences.
+- Include more search engines or APIs for diverse search experiences.
+- Optimize advanced search options for greater user control.
+
+---
+
+This project ensures a comprehensive, user-friendly, and efficient search experience by integrating multiple search engines and advanced features.
